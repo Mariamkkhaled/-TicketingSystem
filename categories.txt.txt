@@ -1,0 +1,4 @@
+Hardware,Disk Failure,Overheating,Power Supply
+Software,Application Crash,Installation Error,Update Failure
+Network,Connectivity Issues,Slow Internet,VPN Issues
+
